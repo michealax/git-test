@@ -9,5 +9,7 @@ public class Main {
         System.out.println("nono");
 
         System.out.println("no conflict");
+
+        System.out.println("use fetch --rebase");
     }
 }

@@ -7,5 +7,7 @@ public class Main {
         System.out.println("toto");
 
         System.out.println("nono");
+
+        System.out.println("no conflict");
     }
 }

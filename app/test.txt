@@ -3,3 +3,4 @@ add a line
 local changes
 there is a conflic.
 yes
+great

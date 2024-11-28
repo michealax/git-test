@@ -1,3 +1,5 @@
 # git-test
 
-# conflict contents test a
+# conflict contents test b
+shane
+shane

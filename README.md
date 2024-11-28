@@ -2,4 +2,4 @@
 
 # conflict contents test b
 shane
-shane
+Mary
